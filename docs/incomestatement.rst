@@ -2,6 +2,10 @@
 Income Statement
 ============
 
+
+Manipulation on Power BI
+==================
+
 .. image:: ../src/imgs/inc0.PNG
   :width: 500
 
