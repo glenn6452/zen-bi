@@ -4,3 +4,5 @@ src/token.json
 src/credentials.json
 src/drive/My Drive/Conso/TrialBalance.xlsx
 src/credentials - Copy.json
+.idea/.gitignore
+.idea/
